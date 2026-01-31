@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SS696SUN
-- 👀 I’m interested in ... connecting with dev - building my website  
-- 🌱 I’m currently learning ... phython,css,java,html 
-- 💞️ I’m looking to collaborate on ... website development
-- 📫 How to reach me ... blackbackbang@hotmail.com
+-  Hi, I’m @SS696SUN
+-  I’m interested in vibing with developer & programmers - building my skilself in programming language 
+- I’m currently learnin phython,css,java,html 
+  -I’m looking to collaborate on ... website development or app that could be the next big thing ( brain stroming ) 
+-  How to reach me ... rfcreativesstudio26@gmail.com
 -  ***
 
 <!---
